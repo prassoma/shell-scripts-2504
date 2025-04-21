@@ -1,0 +1,1 @@
+yum install redhat-lsb-core.x86_64 vim
